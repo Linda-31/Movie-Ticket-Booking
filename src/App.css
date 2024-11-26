@@ -1,0 +1,152 @@
+.App-header {
+    background-color:rgb(23, 131, 173);  
+}
+li {
+    font-size: 20px;
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px;
+    color: white;
+    font-weight: bold;
+   
+}
+
+h1 {
+    text-align: center;
+    font-size: 20px;
+    color:green;
+}
+
+/* Home page */
+.navigation-menu {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .navigation-menu li {
+    margin: 0px 20px;
+  }
+  .navigation-menu li a {
+    text-decoration: none;
+  }
+  
+  
+  
+  /* mobile view */
+  .mobile-navigation {
+    list-style: none;
+    background-color: black;
+    flex-direction: column;
+    display: flex;
+  }
+  .mobile-navigation li {
+    margin-top: 20px;
+  }
+  .mobile-navigation li:hover {
+  background-color: rgb(10, 115, 156);
+  
+  }
+  .mobile-navigation li a {
+    text-decoration: none;
+    font-size: 1.4rem;
+    color: black;
+  }
+
+.box {
+  background-color: skyblue;
+
+}
+ 
+/* trailer */
+.trailer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  width: 100%;
+  font-size: 22px;
+}
+
+.trailer-search {
+  height: 10vh;
+}
+
+.trailer-search input, tb {
+  box-sizing: border-box;
+  height: 25px;
+  font-size: 20px;
+}
+ /* trailer */
+
+ .sign {
+  background-color: white;
+  height: 400px;
+  width:2200;
+  position:relative;
+  top:70px;
+
+ }
+
+ .seat {
+  text-align: center;
+  background-color: skyblue;
+ }
+
+ .seat li {
+  color:blue;
+ }
+
+ .pay {
+  background-color: skyblue;
+  text-align: center;
+ }
+ .subpay {
+ color: maroon;
+ 
+ }
+ 
+ .amount {
+  background-color: skyblue; 
+  
+ }
+
+
+.head {
+text-align: center;
+}
+
+.option{
+font-size: 20px;
+}
+
+.bt {
+  position:relative;
+  left:150px;
+  top: 60px;
+}
+
+.btl {
+  position:relative;
+  left:740px;
+  
+}
+
+.success {
+  font-size: 46px;
+  position:relative;
+
+}
+.suc {
+  font-size: 26px;
+  position:relative;
+  color: black;
+}
+.re {
+  font-size: 16px;
+  position:relative;
+  top:100px;
+}
