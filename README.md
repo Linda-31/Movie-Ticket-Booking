@@ -12,14 +12,18 @@ A movie ticket booking website in React allows users to view showtimes, select m
 <h2>Used Languages</h2>
 <p>
 
-| **Language/Technology** | **Usage**                                      |
-|-------------------------|------------------------------------------------|
-| **JavaScript**           | Core functionality and interactivity using React |
-| **HTML**                 | Structuring web pages and content               |
-| **CSS**                  | Styling and designing the website layout       |
-| **Bootstrap**            | Responsive design and pre-built UI components   |
-| **React.js**             | Building the user interface with components and state management |
-| **Stripe**               | Secure payment gateway integration for transactions |
+
+| **Status** | **Technology**           | **Info**                                  |
+|------------|--------------------------|-------------------------------------------|
+| ✔          | **React JS**             | Front-end library for building UIs.      |
+| ✔          | **JavaScript (JS)**       | Core language for React development.     |
+| ✔          | **JSX**                   | HTML-like syntax in JavaScript.          |
+| ✔          | **HTML**                  | Defines structure of web pages.          |
+| ✔          | **CSS**                   | Styles and layouts for React components. |
+| ✔          | **Bootstrap**             | Responsive, mobile-first UI framework.   |
+| ✔          | **Material UI**           | Material Design components for React.    |
+| ✔          | **Stripe**                | Secure online payment integration.       |
+
   
 </p>
 
