@@ -37,6 +37,11 @@ A movie ticket booking website in React allows users to view showtimes, select m
 <img src="https://github.com/user-attachments/assets/ce74d6e8-0768-449b-a499-7c99837eeef9">
 <h4> Movie page:</h4>
 <img src="https://github.com/user-attachments/assets/91f26690-f7d8-49f2-a2b3-b550e9e8a9aa">
+<h4> Theatre page:</h4>
+<img src="https://github.com/user-attachments/assets/8f544811-b5e9-4b4d-beae-6f4711e617ee">
+<h4> Booking page:</h4>
+<img src="https://github.com/user-attachments/assets/2042ccb7-c0f3-48a9-8b79-b992c2b092a7">
+
 
 
 
