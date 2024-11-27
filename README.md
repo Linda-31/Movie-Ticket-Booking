@@ -19,11 +19,11 @@ A movie ticket booking website in React allows users to view showtimes, select m
 | **Status** | **Technology**           | **Info**                                  |
 |------------|--------------------------|-------------------------------------------|
 | ✔          | **React JS**             | Front-end library.      |
-| ✔          | **JavaScript (JS)**       | Core language for React.     |
-| ✔          | **HTML**                  | Defines structure of web pages.          |
+| ✔          | **JavaScript (JS)**       | Core language.     |
+| ✔          | **HTML**                  | Structure of web pages.          |
 | ✔          | **CSS**                   | Styles and layouts. |
 | ✔          | **Bootstrap**             | Responsive, mobile-first UI framework.   |
-| ✔          | **Material UI**           | Material Design components for React.    |
+| ✔          | **Material UI**           | Material Design components.    |
 | ✔          | **Stripe**                | Secure online payment integration.       |
 
 </p>
