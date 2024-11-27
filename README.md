@@ -1,6 +1,4 @@
 
-
-
 <h1  style="text-align:center">  Movie Ticket Booking Website</h1>
 <h4> 
 A movie ticket booking website in React allows users to view showtimes, select movies, and book tickets with a dynamic, responsive interface.
@@ -56,6 +54,20 @@ A movie ticket booking website in React allows users to view showtimes, select m
 <img src="https://github.com/user-attachments/assets/b870df29-7e5d-46ed-879b-a862057f5505">
 <img src="https://github.com/user-attachments/assets/78376669-40c9-43fd-96f0-f4f415fe5f05">
 <img src="https://github.com/user-attachments/assets/c03fdccc-418e-47c7-9e6e-d33edb907260">
+
+<h2>To run This React project:</h2>
+
+<p> Install Node.js and npm (if not installed).
+Create a React app (if you don’t have one):
+npx create-react-app my-app
+Navigate to the project folder:
+cd my-app
+Install dependencies (if necessary):
+npm install
+Start the development server:
+npm start
+Your app will run at http://localhost:3000
+</p>
 
 
 
