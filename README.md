@@ -2,6 +2,7 @@
 <h4> 
 A movie ticket booking website in React allows users to view showtimes, select movies, and book tickets with a dynamic, responsive interface.
 </h4>
+
 <h2> Features</h2>
 <ul>
   
@@ -9,6 +10,7 @@ A movie ticket booking website in React allows users to view showtimes, select m
 <li>Easy-to-use visual seat selection interface.</li><li>Hassle-free and secure payment options.</li><li>Personalized recommendations and booking history.</li>
 
 </ul>
+
 <h2>Used Technologies</h2>
 <p>
 
@@ -23,6 +25,10 @@ A movie ticket booking website in React allows users to view showtimes, select m
 | ✔          | **Material UI**           | Material Design components for React.    |
 | ✔          | **Stripe**                | Secure online payment integration.       |
 
-  
 </p>
+<h2>
+  Preview
+</h2>
+<h4> Home page:</h4>
+
 
