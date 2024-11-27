@@ -1,8 +1,8 @@
-<h1  style="text-align:center">  Movie Ticket Booking Website-React</h1>
+<h1  style="text-align:center">  Movie Ticket Booking Website</h1>
 <h4> 
 A movie ticket booking website in React allows users to view showtimes, select movies, and book tickets with a dynamic, responsive interface.
 </h4>
-<h1> Features</h1>
+<h2> Features</h2>
 <p>
   
 Dynamic UI: Real-time updates on movie listings and showtimes.
