@@ -9,7 +9,7 @@ A movie ticket booking website in React allows users to view showtimes, select m
 <li>Easy-to-use visual seat selection interface.</li><li>Hassle-free and secure payment options.</li><li>Personalized recommendations and booking history.</li>
 
 </ul>
-<h2>Used Languages</h2>
+<h4>Used Technologies</h4>
 <p>
 
 
