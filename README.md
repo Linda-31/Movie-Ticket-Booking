@@ -5,9 +5,8 @@ A movie ticket booking website in React allows users to view showtimes, select m
 <h2> Features</h2>
 <ul>
   
-<li>Dynamic UI: Real-time updates on movie listings and showtimes.</li>
-<li>Interactive Seat Selection: Easy-to-use visual seat selection interface.</li><li>Secure Payment Integration: Hassle-free and secure payment options.</li><li>
-User Account Management: Personalized recommendations and booking history.</li>
+<li>Real-time updates on movie listings and showtimes.</li>
+<li>Easy-to-use visual seat selection interface.</li><li>Hassle-free and secure payment options.</li><li>Personalized recommendations and booking history.</li>
 
 </ul>
 <h2>Used Languages</h2>
