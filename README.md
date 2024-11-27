@@ -1,5 +1,5 @@
 
-![home2](https://github.com/user-attachments/assets/ce74d6e8-0768-449b-a499-7c99837eeef9)
+
 
 <h1  style="text-align:center">  Movie Ticket Booking Website</h1>
 <h4> 
@@ -36,6 +36,7 @@ A movie ticket booking website in React allows users to view showtimes, select m
 <img src="https://github.com/user-attachments/assets/44c16bae-c54b-479b-9947-45c52eaeef0c ">
 <img src="https://github.com/user-attachments/assets/ce74d6e8-0768-449b-a499-7c99837eeef9">
 <h4> Movie page:</h4>
+<img src="https://github.com/user-attachments/assets/91f26690-f7d8-49f2-a2b3-b550e9e8a9aa">
 
 
 
